@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MobiStore</string>
+    <string name="home_title">MobiStore</string>
+    <string name="last_price">Último precio</string>
+    <string name="price">Precio actual</string>
+    <string name="accepts_credit">Acepta Crédito.</string>
+    <string name="does_not_accept_credit">Sólo Efectivo.</string>
+    <string name="details_button">Contactar</string>
+    <string name="email">info@novaera.cl</string>
+    <string name="email_subject">Consulta</string>
+</resources>
+

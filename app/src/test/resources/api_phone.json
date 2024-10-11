@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy A21s 64GB",
+    "price": 167253,
+    "image": "https://images.samsung.com/is/image/samsung/es-galaxy-a21s-sm-a217fzkoeub-262755098?$PD_GALLERY_L_JPG$"
+  },
+  {
+    "id": 2,
+    "name": "Huawei Nova 7 SE 128GB",
+    "price": 347760,
+    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/nova7-se/img/mob/huawei-nova7-se-mob.png"
+  },
+  {
+    "id": 3,
+    "name": "Apple iPhone 7 32GB",
+    "price": 323760,
+    "image": "https://daisycon.io/images/mobile-device/?width=250&height=250&color=ffffff&mobile_device_brand=apple&mobile_device_model=iphone+7+32gb&mobile_device_color=silver"
+  }
+]
